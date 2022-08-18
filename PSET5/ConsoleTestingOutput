@@ -1,0 +1,66 @@
+"C:\Program Files\Java\jdk-16.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.1\lib\idea_rt.jar=60253:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Test User\OneDrive\Documents\IdeaProjects\cs10\libs\opencv.jar;C:\Users\Test User\OneDrive\Documents\IdeaProjects\cs10\libs\javacv.jar;C:\Users\Test User\OneDrive\Documents\IdeaProjects\cs10\libs\openblas-windows-x86_64.jar;C:\Users\Test User\OneDrive\Documents\IdeaProjects\cs10\libs\json-simple-1.1.1.jar;C:\Users\Test User\OneDrive\Documents\IdeaProjects\cs10\libs\net-datastructures-4-0.jar;C:\Users\Test User\OneDrive\Documents\IdeaProjects\cs10\libs\opencv-windows-x86_64.jar;C:\Users\Test User\OneDrive\Documents\IdeaProjects\cs10\out\production\cs10" SudiEnhanced
+
+Brown Corpus test accuracy: 0.9621091388690444!
+
+Type your sentence, with each word and punctuation separated by spaces:
+your work is beautiful .
+Input tags, separated by spaces:
+PRO N V ADJ .
+If you wish to test your model type 'TEST' to test your model; otherwise, add another sentence: 
+you work for trains .
+Input tags, separated by spaces:
+PRO V P N .
+If you wish to test your model type 'TEST' to test your model; otherwise, add another sentence: 
+this cave is my night .
+Input tags, separated by spaces:
+DET N V PRO N .
+If you wish to test your model type 'TEST' to test your model; otherwise, add another sentence: 
+we hide the watch in a cave .
+Input tags, separated by spaces:
+PRO V DET N P DET N .
+If you wish to test your model type 'TEST' to test your model; otherwise, add another sentence: 
+trains are fast .
+Input tags, separated by spaces:
+N V ADJ .
+If you wish to test your model type 'TEST' to test your model; otherwise, add another sentence: 
+we fast in the night .
+Input tags, separated by spaces:
+PRO V P DET N .
+If you wish to test your model type 'TEST' to test your model; otherwise, add another sentence: 
+my trains bark .
+Input tags, separated by spaces:
+PRO N V .
+If you wish to test your model type 'TEST' to test your model; otherwise, add another sentence: 
+the dog held the bark .
+Input tags, separated by spaces:
+DET N V DET N .
+If you wish to test your model type 'TEST' to test your model; otherwise, add another sentence: 
+we should watch the dog work in a cave .
+Input tags, separated by spaces:
+PRO MOD V DET N V P DET N .
+If you wish to test your model type 'TEST' to test your model; otherwise, add another sentence: 
+he trains the dog .
+Input tags, separated by spaces:
+PRO V DET N .
+If you wish to test your model type 'TEST' to test your model; otherwise, add another sentence: 
+TEST
+Type in your test sentence:
+my dog trains to bark .
+Type 'DONE' if done adding sentences.
+i watch your dog for money .
+Type 'DONE' if done adding sentences.
+his work is to bark in a cave .
+Type 'DONE' if done adding sentences.
+my watch glows in the night .
+Type 'DONE' if done adding sentences.
+the dog saw trains in the night .
+Type 'DONE' if done adding sentences.
+DONE
+my/PRO dog/N trains/V to/DET bark/N ./. 
+i/PRO watch/V your/PRO dog/N for/P money/N ./. 
+his/PRO work/N is/V to/DET bark/N in/P a/DET cave/N ./. 
+my/PRO watch/N glows/V in/P the/DET night/N ./. 
+the/DET dog/N saw/P trains/N in/P the/DET night/N ./. 
+
+
+Process finished with exit code 0
